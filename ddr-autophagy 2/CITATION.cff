@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: DDR x autophagy dependency analysis
+message: If you use this code, please cite it.
+type: software
+authors:
+  - family-names: "[SURNAME]"
+    given-names: "[GIVEN NAME]"
+    orcid: "https://orcid.org/[YOUR ORCID]"
+license: MIT
+repository-code: "https://github.com/[USER]/ddr-autophagy"
